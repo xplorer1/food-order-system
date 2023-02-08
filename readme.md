@@ -56,7 +56,7 @@ Edit `items.csv` file under `assets/csv` to change food items.
 
 ## Built Using
 
-git push --set-upstream origi- [NodeJS](https://nodejs.org/en) - Server
+git push --set-upstream or- [NodeJS](https://nodejs.org/en) - Server
 - [Express](https://expressjs.com/) - Server Framework
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Mongoose](https://mongoosejs.com/) - Object Modeling & Schema
