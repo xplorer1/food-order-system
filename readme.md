@@ -16,11 +16,6 @@ These are the instructions to clone and run this project in your local machine f
 
 1. First of all, Clone this repository & navigate to the directory
 
-```
-git clone https://github.com/chiragverma11/EatEasy_Food_Ordering_Website.git
-cd EatEasy_Food_Ordering_Website
-```
-
 2. Install the Dependencies
 
 ```
@@ -58,10 +53,6 @@ npm run menu
 ```
 
 Edit `items.csv` file under `assets/csv` to change food items.
-
-## Author
-
-[@chiragverma11](https://github.com/chiragverma11) - Designing & Developement
 
 ## Built Using
 
